@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "267896471444",
+    "project_id": "toptrails-94c44",
+    "storage_bucket": "toptrails-94c44.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267896471444:android:7b1ba0d466b56eb5e61981",
+        "android_client_info": {
+          "package_name": "com.example.main"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAD387HBJ35YIDKKOyw4w3_n6ThBGsRiCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
