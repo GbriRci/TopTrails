@@ -32,4 +32,4 @@ L'applicazione è sviluppata in **Flutter**, utilizzando un'ampia gamma di libre
 * `image_picker`, `camera`, `url_launcher`, `shared_preferences`, tra le altre.
 
 ## Scarica la relazione completa
-[https://github.com/GbriRci/TopTrails/blob/main/TopTrails_relazione.pdf](TopTrails_relazione.pdf)
+[TopTrails_relazione.pdf](https://github.com/GbriRci/TopTrails/blob/main/TopTrails_relazione.pdf)
